@@ -1,7 +1,6 @@
 # About Me
 
 Web系フロントエンド・バックエンドエンジニアとして活動しています。 <br/><br/>
-2022年9月から実務を開始し、2023年7月に独立しました。 <br/><br/>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs?username=ko-shiro-hap&show_icons=true&locale=en&layout=compact)
 
